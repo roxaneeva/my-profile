@@ -1,0 +1,44 @@
+.button-beige {
+background-color: #C57B57;
+color: white;
+padding: 10px 20px;
+border-radius: 3px;
+text-decoration: none;
+display: inline-block;
+opacity: 1;
+}
+
+.button-beige: hover {
+opacity: 0.8;
+}
+
+
+.button-black{
+	background-color: #ff7160;
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: white; 
+	transition: 0.2s;
+	margin: 20px 0;
+	display: inline-block;
+ }
+
+
+.button-white{
+	background-color: white;
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: #ff843d; 
+	transition: 0.2s;
+	margin: 20px 0;
+	display: inline-block;
+ }
+
+ .button-pink {
+ 	color:#64554c ;
+ 	padding: 10px 10px;
+ 	display: inline-block;
+ 	border-radius: 14px;
+ 	background-color: pink ;
+
+ }
